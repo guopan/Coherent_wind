@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/openfolder.png</file>
+        <file>images/savefolder.png</file>
+        <file>images/searchdevice.png</file>
+        <file>images/set.png</file>
+        <file>images/start.png</file>
+        <file>images/stop.png</file>
+        <file>images/update.png</file>
+    </qresource>
+</RCC>
